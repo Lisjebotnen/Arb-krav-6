@@ -1,0 +1,47 @@
+---
+title: "Arbeidskrav 6"
+format: pdf
+bibliography: referanser/referanser.bib
+
+---
+
+# Introduksjon 
+
+Det å kontrollere treningsvariablar blir sett på som ein av dei mest avgjerande faktorane for å maksimere muskelhypertrofi etter styrketrening [@schoenfeld2017a, @schoenfeld2017b, @schoenfeld2017c & schoenfeld2016]. Variablar slik som treningsvolum, intensitet, restitusjon, val av øvingar og rekkjefølge på desse, kontraksjonshastighet og frekvens på treningsøkter spelar inn på kva treningseffekt ein sit igjen med etter økta [@2009]. I tillegg spelar genetiske, epigenetiske og miljemessige faktorar inn på korleis treningsresponsen blir [@timmons2011, @seaborne2018 & @morton2018]. Sidan mangel på tid blir uttrykt som eit stort hinder for å gjennomføre eit treningsprogram [@choi2017], har fleire studiar undersøkt om kva minstekravet for treningsdoser for å få eit adekvat treningsstimuli.
+
+I litteraturen ser ein alt i frå ein stor fordel med 3 sett per muskelgruppe i forhold til 1 sett [@stowers1983], til ingen forskjell mellom 3 og 1 sett [@schlumberger2001]. Dette kan forklarast med fleire metodiske feil som har blitt gjort for å belyse dette temaet. Enkelte studiar har gjennomført berre ein pre-test [@sanborn2000, @starkey1996] som seier ingenting om reliabiliteten til baseline-data. I fleire studiar som ser på forskjellen mellom eit og tre sett er det forskjell i treningsintensitet [@kramer1997 & @sanborn2000] og øvingar [@marx2001 & @messier1985]. Når målet er å samanlikne effekten ulike treningsvolum har på den maksimale styrken må alle andre treningsvariablar holdast så lik som mogleg. Tar ein i tillegg høgde for relative få deltakarar og den store forskjellen i treningsrespons blant individ vil dette i sum vere med på å forklare kvifor det er så varierande resultat i litteraturen. Eit studiedesign med fokus på intra-individe forskjellar på treningsrespons vil kunne lindre desse avgrensingane.
+
+Denne studien ynskjer å samanlikne effekten av treningsprotokollane: singelserie (1 sett) og multiserie (3 sett) har på muskelstyrke (1RM) og muskelmasse for utrente personar.
+
+# Metode
+
+## Deltakarar og studiedesign
+
+41 kvinner og menn i alderen 18 til 40 år vart rekrutterte til studien, med krav om at dei ikkje røykte (sjå Tabell 1). Eksklusjonskriteria inkluderte intoleranse for lokalbedøving, gjennomsnittleg meir enn éin styrketreningsøkt per veke dei siste 12 månadene før intervensjonen, redusert muskelstyrke grunna skadar eller sjukdom, samt bruk av medisinar som kunne påverke tilpassingane til styrketrening. Alle deltakarane som fullførte minimum 85% av styrketreningsøktene, vart inkluderte i analysen.
+
+Intervensjonen bestod av 12 veker med heilkropps styrketrening gjennomført mellom september og november. For å undersøke skilnadane i treningsvolum innanfor kvar deltakar, vart beinøvingane gjennomførte unilateralt. Deltakarane sine bein vart dermed tilfeldig tildelte ein serie på det eine beinet og tre seriar på det andre beinet for kvar øving. Dette gjorde det mogleg for alle deltakarane å gjennomføre både 1 og 3 seriar. Muskelstyrken til deltakarane vart målt ved baseline, undervegs (veke 3, 5 og 9) og etter intervensjonen. Kroppssamansetjinga til deltakarane vart målt rett før og etter treningsintervensjonen.
+
+## Treningsintervensjon
+
+Før kvar treningsøkt vart det gjennomført ein standard oppvarmingsprotokoll på 5 minutt på ergometersykkel, etterfulgt av 10 repetisjonar av ulike kroppsvektøvingar i tillegg til eit sett med 10 repetisjonar ved ~50% av 1RM for kvar motstandsøving. Beinøvingane vart gjennomførte i same rekkefølge kvar økt, enten som eitt sett eller tre sett. Pausetida var mellom 90-180 sekund. Treningsmotstanden auka gradvis gjennom intervensjonen med ein start på 10RM dei første to vekene, etterfulgt av 8RM i tre veker og 7RM i sju veker. Gjennomsnittleg tal overvaka økter var 91% av gjennomførte økter. På dei øktene som ikkje var overvaka, fekk deltakarane beskjed om å føre detaljerte loggar. Desse vart kontrollerte for å sikre framgang og etterleving av protokollen.
+
+## Testing
+
+I samband med studien vart det gjennomført testar av både muskelstyrke, muskeltverrsnitt, kroppssamansetjing, hormonmålingar, biopsi av muskelvev, immunhistokjemi og proteinanalyse.
+
+### Muskelstyrke
+Det vart gjennomført styrketestar av isometrisk og isokinetisk unilateral kneekstensjon målt ved eit dynamometer. Deltakarane vart testa i maksimalt isokinetisk dreiemoment ved 60°, 120° og 240° s-1 fart. Deltakarane fekk fleire forsøk ved kvar fart. Høgaste verdien for kvar fart vart brukt i analysane. MFK-dreiemoment vart målt ved ein knevinkel på 30°, etter isokinetisk testing. Her fekk deltakarane beskjed om å presse med maksimal kraft i 5 sekund. Dei fekk to forsøk, med 30 sekund pause mellom. Beste forsøk vart brukt i analysane. Maksimal styrke i kneekstensjonen vart målt som 1RM i unilateral beinpress og kneekstensjon. Testen starta med ei spesifikk oppvarming i kvar øving på 10, 6 og 3 repetisjonar på 50, 75 og 85% av antatt 1RM. Deretter vart 1RM funnen ved å gradvis auke vekta, til vekta ikkje kunne løftast med full "range of motion" lenger. Det høgaste godkjende løftet vart sett som 1RM, og deltakarane hadde fire til seks forsøk på kvar øvelse. Ved baseline vart både 1RM, isokinetisk og isometrisk styrketestar gjennomført i to omgangar med minst fire dagars mellomrom. Dei beste verdiane vart brukt i dei statistiske analysane. Styrketestane vart skilde med minst 48 timar frå treningsøkta. Alle dei tre testane utgjorde til saman ein kombinert poengsum for utrekning av muskelstyrke.
+
+### Muskeltverrsnitt og kroppssamansetjing
+Det vart gjort målingar av muskeltverrsnittet av knestrekkerane (vastus lateralis, medialis, intermedius og rectus femoris) både før og etter intervensjonen ved bruk av magnetisk resonans (MR). Tverrsnittet vart målt på nøyaktig same stad begge gongene for kvar deltakar. Kroppsamansetjinga vart målt før og etter intervensjonen ved bruk av dual-energy X-ray absorptiometry (DXA). DXA vart teke to dagar etter siste styrketreningsøkt, og deltakarane måtte faste dei siste 2 timane og unngå hard fysisk aktivitet dei siste 48 timane.
+
+### Hormonelle målingar
+Hormonelle målingar vart teke i samband med biopsi i form av blodprøver på fem ulike tidspunkt under intervensjonen. Det vart teke målingar av den totale konsentrasjonen av testosteron, kortisol, veksthormon og insulinliknande vekstfaktor (IGF-1), i tillegg til konsentrasjonen av vitamin-D.
+
+### Muskelbiopsi
+Muskelbiopsi vart teke bilateralt frå m.vastus lateralis ved lokalbedøving. Alle deltakarane fekk klare instruksjonar om førebuingane som skulle gjerast i forkant, for å standardisere prøvetakinga så godt som mogleg. Biopsiprøvene etter intervensjonen vart teke tre og seks dagar etter siste styrketreningsøkt.
+
+## Statistikk og analyse
+
+
+
